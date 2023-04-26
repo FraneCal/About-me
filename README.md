@@ -1,25 +1,23 @@
-### A passionate frontend developer from India
-🔭 I’m currently working on JavaScript and Web Development
+### A passionate Python Developer
+🔭 I’m currently working on Python, Web Development, Data Science
 
-🌱 I’m currently learning Java, JavaScript, ReactJS
+🌱 I’m currently learning Flask, SQLAlchemy, Pandas
 
-👯 I’m looking to collaborate on JavaScript, Python and Django
+👯 I’m looking to collaborate on Python
 
-🤝 I’m looking for help with Java, JavaScript
+🤝 I’m looking for help with Flask, Pandas
 
-💬 Ask me about HTML, CSS, JS, C++
+💬 Ask me about Python, HTML, CSS
 
-📫 How to reach me aasthasaxena217@gmail.com
+📫 How to reach me: Github and LinkedIn (lnk below)
 
-My Blogging Site : https://aasthasaxena.hashnode.dev/
-
-⚡ Fun fact Music keeps me awake.
+My Blogging Site : /
 
 Connect with me:
-_aasthasaxena https://www.linkedin.com/in/aastha2/
+/
 
 Languages and Tools:
-bootstrap c cplusplus css3 django git html5 java javascript python
+bootstrap python html5 css3 flask
 
 <!--
 **FraneCal/FraneCal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
