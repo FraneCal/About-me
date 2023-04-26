@@ -9,10 +9,10 @@
 
 💬 Ask me about Python, HTML, CSS
 
-📫 How to reach me: Github and LinkedIn (lnk below)
+📫 How to reach me: Github and LinkedIn (link below)
 
 Connect with me:
-/
+(https://www.linkedin.com/in/frane-%C4%87alu%C5%A1i%C4%87-bb7602222)
 
 Languages and Tools:
 
