@@ -17,10 +17,8 @@ Connect with me:
 /
 
 Languages and Tools:
-bootstrap python html5 css3 flask
+:python: flask html5 css3 bootstrap
 
-Languages and Tools:
-bootstrap c cplusplus css3 django git html5 java javascript python
 <!--
 **FraneCal/FraneCal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
