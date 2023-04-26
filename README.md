@@ -1,4 +1,4 @@
-### A passionate Python Developer
+### Mechanical Engineer | Python Developer (soon to be)
 🔭 I’m currently working on Python, Web Development, Data Science
 
 🌱 I’m currently learning Flask, SQLAlchemy, Pandas
