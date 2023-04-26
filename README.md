@@ -20,6 +20,8 @@ Languages and Tools:
 
 ![image](https://user-images.githubusercontent.com/90317417/234561252-0f0c6f8e-3fbc-4c9f-975d-c1e07621f830.png)
 
+https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg
+
 :python: flask html5 css3 bootstrap
 
 <!--
