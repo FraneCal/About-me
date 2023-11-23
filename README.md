@@ -1,7 +1,7 @@
 ### Mechanical Engineer
 🔭 I’m currently working on Python, Web Scraping, Data Science
 
-🌱 I’m currently learning SQL, Beautiful Soup, Selenium driver, Pandas, NumPy
+🌱 I’m currently learning SQL, Pandas, NumPy
 
 👯 I’m looking to collaborate on Python
 
