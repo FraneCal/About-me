@@ -1,11 +1,11 @@
 ### Mechanical Engineer
 🔭 I’m currently working on Python, Web Scraping, Data Science, SQL
 
-🌱 I’m currently learning NumPy, Front-end
+🌱 I’m currently learning Fast API
 
 👯 I’m looking to collaborate on Python
 
-🤝 I’m looking for help with Front-end
+🤝 I’m looking for help with Fast API
 
 💬 Ask me about Python
 
